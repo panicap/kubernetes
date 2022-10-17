@@ -11,7 +11,7 @@
     background-color: #f44336;
   }
 
-   text{
+   #text{
 
     height: 25px;
     border-radius: 5px;
@@ -20,7 +20,7 @@
     width: 100%;
 }
 
- button{
+ #button{
 
     padding: 10px;
     width: 100px;
@@ -29,10 +29,9 @@
     border: none;
 }
 
- box{
+ #box{
 
     background-color: grey;
-    margin: auto;
     width: 300px;
     padding: 20px;
 }
